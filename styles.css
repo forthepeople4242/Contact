@@ -1,0 +1,20 @@
+.heading {
+    background-color: brown;
+    padding: 10px;
+    text-align: center;
+}
+h1 {
+    color: white;
+font-style: bold;
+}
+img {
+    height: 70px;
+    width: 70px;
+}
+.main {
+display: block;
+text-align: center;
+}
+p {
+    font-size: 30px;
+}
